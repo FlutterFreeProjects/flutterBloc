@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134265758104",
+    "project_id": "bloc-flutter-54700",
+    "storage_bucket": "bloc-flutter-54700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134265758104:android:b6d2092c6a21b900394bed",
+        "android_client_info": {
+          "package_name": "com.example.flutterbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134265758104-dsjt9escubsm4f1cnnruvq69fgun1nm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterbloc",
+            "certificate_hash": "f21833d6034c13468cb3f3016581143d6071d97a"
+          }
+        },
+        {
+          "client_id": "134265758104-6e4cdiapn6118b776mef6uel5242gd57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo5YIyXYEPbbMOPOAiM4Cjjx3twogARhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134265758104-6e4cdiapn6118b776mef6uel5242gd57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
